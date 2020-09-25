@@ -1,5 +1,5 @@
 print("Let's practice everything.")
-print("You\'d need t know \' bout escapes  with \\ that do:")
+print("You\'d need to know \' bout escapes  with \\ that do:")
 print("\n newlines and \t tabs.")
 
 poem = """
